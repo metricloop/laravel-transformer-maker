@@ -31,7 +31,7 @@ class DummyClassTransformer extends TransformerAbstract
             'links' => [
                 [
                     'rel' => 'self',
-                    'uri' => '',
+                    'href' => url('path/to/resource'),
                 ],
             ]
         ];
