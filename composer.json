@@ -1,5 +1,5 @@
 {
-  "name": "ridown/laravel-transformer-maker",
+  "name": "metricloop/laravel-transformer-maker",
   "description": "A Laravel 5 package to create Fractal Transformers",
   "keywords": [
     "metricloop",
